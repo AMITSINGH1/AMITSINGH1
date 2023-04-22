@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMITSINGH1
 - 👀 I’m interested in ... coding and sports
-- 🌱 I’m currently learning ... React
+- 🌱 I’m currently working on React and Next js Projects.
 - 💞️ I’m looking to collaborate on ... any ideas
 - 📫 How to reach me ... amitkrs874@gmail.com
 
